@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"火山","order":1,"parentId":0,"scrollX":600.75,"scrollY":506.25},
+{"id":1,"expanded":true,"name":"火山","order":1,"parentId":0,"scrollX":2076,"scrollY":1572},
 {"id":2,"expanded":true,"name":"出生地（封路）","order":4,"parentId":0,"scrollX":523.3333333333334,"scrollY":510},
 {"id":3,"expanded":false,"name":"过渡","order":2,"parentId":1,"scrollX":436.90909090909093,"scrollY":368.1818181818182},
 {"id":4,"expanded":true,"name":"家（无事件）","order":5,"parentId":2,"scrollX":534,"scrollY":450},
