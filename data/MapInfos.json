@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"火山","order":1,"parentId":0,"scrollX":2076,"scrollY":1572},
-{"id":2,"expanded":true,"name":"出生地（封路）","order":4,"parentId":0,"scrollX":523.3333333333334,"scrollY":510},
-{"id":3,"expanded":false,"name":"过渡","order":2,"parentId":1,"scrollX":436.90909090909093,"scrollY":368.1818181818182},
+{"id":2,"expanded":true,"name":"出生地（封路）","order":4,"parentId":0,"scrollX":741.4285714285713,"scrollY":561.4285714285714},
+{"id":3,"expanded":false,"name":"过渡","order":2,"parentId":1,"scrollX":741.4285714285713,"scrollY":561.4285714285714},
 {"id":4,"expanded":true,"name":"家（无事件）","order":5,"parentId":2,"scrollX":534,"scrollY":450},
 {"id":5,"expanded":false,"name":"序章（无人物初始）","order":3,"parentId":1,"scrollX":741.4285714285713,"scrollY":561.4285714285714},
 {"id":6,"expanded":false,"name":"邻居","order":6,"parentId":2,"scrollX":534,"scrollY":450},
